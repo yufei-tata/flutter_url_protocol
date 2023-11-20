@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d27aaf4-2a97-4290-b3c1-f00bead7b616" name="变更" comment="feat: 新功能&#10;fix: 修复问题&#10;version：1.5.62 release:  84&#10;docs: 修改文档&#10;style: 修改代码格式，不影响代码逻辑&#10;refactor: 重构代码，理论上不影响现有功能&#10;perf: 提升性能&#10;test: 增加修改测试用例&#10;chore: 修改工具相关（包括但不限于文档、代码生成等）&#10;deps: 升级依赖">
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685682802718</updated>
       <workItem from="1685682805954" duration="348000" />
+      <workItem from="1686901268705" duration="7942000" />
     </task>
     <servers />
   </component>
